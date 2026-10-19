@@ -106,3 +106,7 @@ The documented hardware is an educational prototype, not a flight-ready stabiliz
 * **Àlex Coromina Sayós** - [@alexcorominasayos](https://github.com/alexcorominasayos)
 * **Adrià Expósito Casas** - [@adriaexposito-png](https://github.com/adriaexposito-png)
 * **Jordán Frank Soto Huarcaya** - [@jordanfranksoto-netizen](https://github.com/jordanfranksoto-netizen)
+
+## License
+
+**MIT**
